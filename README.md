@@ -46,8 +46,8 @@ This project uses **Logistic Regression** to predict weather conditions from sim
 - Model successfully classifies weather into **Rain, Sun, Snow**.  
 - Accuracy improves with appropriate preprocessing and parameter tuning.  
 
-<img src="https://raw.githubusercontent.com/Amruthakshaji2002/Tomato-Leaf-Disease-Detection/main/prediction1.png" width="350">
-<img src="https://raw.githubusercontent.com/Amruthakshaji2002/Tomato-Leaf-Disease-Detection/main/prediction2.png" width="350">
+<img src="https://github.com/Amruthakshaji2002/Weather-Prediction-Logistic-Regression/blob/main/prediction3.png"width="350">
+<img src="https://github.com/Amruthakshaji2002/Weather-Prediction-Logistic-Regression/blob/main/prediction4.png" width="350">
 
 ---
 
