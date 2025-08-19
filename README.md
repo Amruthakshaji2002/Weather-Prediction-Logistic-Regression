@@ -47,7 +47,7 @@ This project uses **Logistic Regression** to predict weather conditions from sim
 - Accuracy improves with appropriate preprocessing and parameter tuning.  
 
 <img src="https://github.com/Amruthakshaji2002/Weather-Prediction-Logistic-Regression/blob/main/prediction3.png"width="350">
-<img src="https://github.com/Amruthakshaji2002/Weather-Prediction-Logistic-Regression/blob/main/prediction4.png" width="350">
+<img src="https://github.com/Amruthakshaji2002/Weather-Prediction-Logistic-Regression/blob/main/prediction4.png"width="350">
 
 ---
 
